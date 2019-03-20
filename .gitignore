@@ -1,3 +1,13 @@
+*.out
+loadBalancer
+presenter
+worker
+laptops/
+im/
+*.log
+*.txt
+*.zip
+
 # Prerequisites
 *.d
 
@@ -13,7 +23,7 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
+*.dylibit
 *.dll
 
 # Fortran module files
